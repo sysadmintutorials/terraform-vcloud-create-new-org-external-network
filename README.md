@@ -14,7 +14,7 @@ Using Terraform I Automate the process of creating an External Network, vCloud D
 1. variables.tf<br>
 
 Full blog post explaining the entire Terraform code can be found here:<br>
-https://www.sysadmintutorials.com/getting-started-with-terraform-to-automate-vmware-vcloud-director/<br>
+https://www.sysadmintutorials.com/getting-started-with-terraform-and-vmware-vcloud-director/<br>
   
 1. Main.tf contains the provider and resources used to build the environment<br>
 
